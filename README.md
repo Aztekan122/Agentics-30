@@ -2,127 +2,358 @@ Agentics-30
 
 30 Levels into Agentic Systems
 
-Agentics-30 is a structured 30-level training programme for understanding, designing, engineering, testing, supervising, and orchestrating advanced agentic systems.
+Agentics-30 is a 30-level training programme for exploring the development of increasingly capable agentic systems - from the foundations of agency and supervised behaviour through reasoning, judgement, ethics, governance, systems, architecture, emergence, meta-intelligence, trans-system coordination and ultimately supra-intelligence.
 
-The programme progresses through 30 levels of increasing complexity, beginning with Level 1 — Agent and progressing through increasingly capable forms of agency, coordination, supervision, orchestration, and system integration, culminating in Level 30 — Supra Intelligence.
+It is designed as a progressive capability journey.
 
-Each level introduces new concepts, engineering challenges, constraints, and system behaviours. The levels build progressively from foundational principles toward complex autonomous, supervisory, orchestrated, multi-agent, and supra-intelligent architectures.
+Each level introduces a new capability, extends the capabilities established before it, and provides a structured basis for experimentation, implementation, testing, supervision and further development.
 
-Agentics-30 is designed to develop practical understanding rather than treating agentic systems as a single technology or model. The programme examines how individual capabilities interact, how boundaries are established, how behaviour is constrained and supervised, and how increasingly complex agentic systems can be constructed and evaluated.
+The programme progresses from the individual agent to systems of agents, from intelligence to intelligence-about-intelligence, and from individual systems toward cross-system and trans-system architectures.
 
-Programme Structure
-
-The 30 levels are organised into six progressive blocks:
-
-Block A — Levels 1–5
-
-Foundations, Inputs, Constraints, and Basic Agency
-
-Establishes the fundamental concepts, boundaries, inputs, conditions, constraints, and basic autonomous behaviours required to understand and construct controlled agentic systems.
-
-Block B — Levels 6–10
-
-Interpretation, Understanding, and Structured Capability
-
-Develops the mechanisms through which an agentic system interprets information, establishes context, distinguishes conditions, and develops structured understanding and capability.
-
-Block C — Levels 11–15
-
-Reasoning, Decision Processes, and Multi-Step Behaviour
-
-Explores increasingly complex reasoning processes, relationships between information and decisions, uncertainty, evaluation, planning, and controlled problem solving.
-
-Block D — Levels 16–20
-
-Supervision, Control, and Safe Autonomy
-
-Introduces supervisory structures, behavioural boundaries, oversight, constraint enforcement, monitoring, correction, and controlled autonomy.
-
-Block E — Levels 21–25
-
-Orchestration, Coordination, and Multi-Agent Systems
-
-Progresses into coordination, orchestration, communication, delegation, interaction between agents, and management of increasingly complex agentic environments.
-
-Block F — Levels 26–30
-
-Output, Stability, Integration, and Supra Intelligence
-
-Brings the programme together through output control, stability, evaluation, system integration, resilience, supra-intelligent coordination, and the behaviour of complete agentic architectures.
-
-Learning Outcomes
-
-The programme is intended to develop the ability to:
-
-- Understand the fundamental components of agentic systems
-- Design structured agentic architectures
-- Define and enforce system boundaries
-- Work with constraints at different architectural levels
-- Analyse and evaluate agentic behaviour
-- Develop supervised autonomy
-- Design monitoring, reporting, correction, and oversight mechanisms
-- Construct controlled reasoning processes
-- Coordinate multiple agents and capabilities
-- Design orchestration and delegation structures
-- Test system behaviour and stability
-- Evaluate outputs and system responses
-- Identify failure conditions and undesirable behaviours
-- Build increasingly complex agentic systems from controlled components
-- Understand how individual capabilities combine into larger architectures
-- Progress from individual agents toward supra-intelligent system architectures
-
-The outcome is not simply familiarity with agentic technology. The programme is intended to develop the ability to reason about, engineer, test, supervise, and integrate agentic systems as complete technical architectures, progressing from Agent through increasingly advanced forms of intelligence and coordination to Supra Intelligence.
-
-Documentation
-
-The "/docs" directory contains the supporting architecture and programme documentation:
-
-- "overview.md" — Programme and architecture overview
-- "01_system_principles.md" — Core principles and design rules
-- "02_layer_map.md" — Complete 30-level programme map
-- "03_constraint_model.md" — Constraint and control model
-- "04_supervisory_architecture.md" — Supervision and controlled autonomy
-- "05_orchestration_architecture.md" — Orchestration and multi-agent coordination
-- "06_output_and_stability_layers.md" — Output, stability, and integration
+---
 
 The 30 Levels
 
-Each level represents a defined stage of progression within the programme, beginning with:
+I. Foundations
 
-- Level 1 — Agent
-- Level 2 — Agentic Capability
-- Level 3 — Agentic System
-- Level 4 — Agentic Network
-- Level 5 — Agentic Environment
+Level 01 - Agent
 
-The progression continues through increasingly advanced levels of interpretation, reasoning, supervision, control, orchestration, multi-agent coordination, system integration, and intelligence, culminating in:
+The foundation of agentic behaviour.
 
-- Level 30 — Supra Intelligence
+Introduces the basic agent loop:
 
-The levels are designed to build upon one another rather than operate as isolated lessons. Earlier concepts become foundations for later levels, allowing increasingly sophisticated agentic behaviours and architectures to be examined without losing control of the underlying system.
+Input -> Interpretation -> Options -> Constraints -> Action -> Outcome -> Report -> Correction
 
-The complete level-by-level curriculum, objectives, exercises, and outcomes are maintained in the programme documentation.
+Agents learn to perceive simple signals, make constrained decisions, perform safe predefined actions, report outcomes and respond to supervisor correction.
 
-Purpose
+Level 02 - Agentic Capability
 
-Agentics-30 provides a structured path for developing the knowledge and engineering capability required to work with advanced agentic systems.
+Extends the basic agent into a capable agentic system.
 
-It is intended to support:
+Introduces the ability to perform increasingly structured tasks while maintaining constraints, state, supervision and reporting.
 
-- Agentic systems education and development
-- Architectural experimentation
-- Controlled autonomy research
-- Multi-agent system development
-- Supervision and orchestration
-- System testing and evaluation
-- Development of reusable agentic capabilities
-- Integration of agentic components into larger systems
-- Exploration of supra-intelligent system architectures
+Level 03 - Agentic System
+
+Moves from individual capability toward an integrated agentic system.
+
+Introduces coordinated components, system-level behaviour and structured interaction between agentic capabilities.
+
+Level 04 - Agentic Network
+
+Introduces networked agentic behaviour.
+
+Agents can communicate, exchange information and coordinate across connected environments while maintaining defined boundaries and constraints.
+
+Level 05 - Agentic Environment
+
+Moves the agent beyond an isolated system into an environment.
+
+Introduces interaction between agents, systems, information and surrounding conditions.
+
+---
+
+II. Autonomous Capability
+
+Level 06 - Autonomous Learning
+
+Agents learn from experience.
+
+Capabilities include pattern detection, learning from outcomes, internal model updates, behavioural improvement and supervised adaptation.
+
+Level 07 - Autonomous Reasoning
+
+Agents begin to reason beyond learned patterns.
+
+Capabilities include abstract concepts, relational reasoning, inference, conceptual modelling, logical evaluation and reasoning-based problem solving.
+
+Level 08 - Autonomous Judgement
+
+Agents become structured evaluators.
+
+They learn to evaluate situations, weigh multiple factors, apply values and constraints, form supervised judgements and explain those judgements.
+
+Level 09 - Autonomous Ethics
+
+Agents introduce explicit ethical evaluation.
+
+They learn to recognise ethical dimensions, apply moral constraints, evaluate potential harm, align with defined values and report ethical reasoning.
+
+Level 10 - Autonomous Governance
+
+Agents operate within governance structures.
+
+Introduces governance-aware behaviour, supervisory boundaries, accountability and constraint-aligned operation.
+
+---
+
+III. Systems, Architecture and Creation
+
+Level 11 - Autonomous Systems
+
+Agents begin reasoning about entire systems.
+
+They can model systems, identify systemic issues, coordinate multi-layer behaviour, optimise structures and maintain system-level stability.
+
+Level 12 - Autonomous Architecture
+
+Agents become capable of architectural reasoning.
+
+They can model architectures, design multi-layer structures, evaluate architectural safety and efficiency, propose structural changes and evolve systems under supervision.
+
+Level 13 - Autonomous Creation
+
+Agents become creative system builders.
+
+They can generate ideas, synthesise structures, invent solutions, create novel designs and evaluate creative outputs while maintaining constraints.
+
+Level 14 - Autonomous Innovation
+
+Agents move from creation toward innovation.
+
+They explore high-novelty reasoning, breakthrough synthesis, disruptive structures and innovation beyond existing architectures while maintaining constraints.
+
+Level 15 - Autonomous Evolution
+
+Agents begin modelling and guiding system evolution.
+
+They can model trajectories, propose transformations, evaluate changes, optimise evolutionary processes and maintain system alignment.
+
+Level 16 - Autonomous Emergence
+
+Agents begin working with emergent behaviour.
+
+They detect emergent patterns, model dynamic behaviour, guide emergent phenomena, optimise emergent structures and stabilise behaviour under supervision.
+
+---
+
+IV. Meta-Intelligence
+
+Level 17 - Autonomous Meta-Systems
+
+Agents begin operating above individual systems.
+
+They can understand, coordinate and evolve systems of systems, including cross-system emergence and shared constraints.
+
+Level 18 - Autonomous Meta-Cognition
+
+Introduces cognition about cognition.
+
+Agents examine their own reasoning processes, evaluate those processes and operate with supervised introspective capability.
+
+Level 19 - Autonomous Meta-Agency
+
+Introduces agency about agency.
+
+Agents examine, coordinate and constrain agentic behaviour at the meta-level.
+
+Level 20 - Autonomous Meta-Intelligence
+
+Intelligence becomes capable of supervising intelligence itself.
+
+The level introduces intelligence mapping, meta-intelligence modelling, evaluation, refinement, correction, stabilisation and integration.
+
+---
+
+V. Trans-Agentic Systems
+
+Level 21 - Autonomous Trans-Agency
+
+Agents operate across agentic boundaries.
+
+They coordinate agency across systems, layers and domains while maintaining cross-boundary alignment and constraints.
+
+Level 22 - Autonomous Trans-Intelligence
+
+Intelligence begins operating across domains and systems.
+
+Agents map, model, evaluate, refine and stabilise intelligence across boundaries.
+
+Level 23 - Autonomous Trans-Cognition
+
+Cognition extends across systems.
+
+Agents coordinate and stabilise reasoning across architectures, domains and layers.
+
+Level 24 - Autonomous Trans-Reasoning
+
+Reasoning itself becomes trans-systemic.
+
+Agents coordinate logic across systems, architectures, domains and layers while maintaining coherence and constraint alignment.
+
+Level 25 - Autonomous Trans-Architecture
+
+Architectural reasoning extends across system boundaries.
+
+Introduces trans-architectural modelling, coordination, evaluation and supervised structural optimisation.
+
+Level 26 - Autonomous Trans-Emergence
+
+Emergence extends across systems.
+
+Agents examine emergent behaviour across boundaries and work to maintain coherence, stability and alignment.
+
+Level 27 - Autonomous Trans-Evolution
+
+Evolution extends across systems and architectures.
+
+Agents model transformation across boundaries while evaluating stability, alignment and evolutionary trajectories.
+
+Level 28 - Autonomous Trans-Meta-Systems
+
+Meta-systems become interconnected across boundaries.
+
+Agents reason about relationships between multiple meta-systems and their emergent behaviour.
+
+Level 29 - Autonomous Trans-Meta-Intelligence
+
+Meta-intelligence becomes trans-systemic.
+
+Agents coordinate and refine meta-intelligence across domains, architectures and systems while maintaining alignment and stability.
+
+---
+
+VI. The Apex
+
+Level 30 - Autonomous Supra-Intelligence
+
+The final level of the Agentics-30 hierarchy.
+
+Level 30 brings together the preceding progression:
+
+Agency
+Intelligence
+Cognition
+Reasoning
+Architecture
+Emergence
+Evolution
+Meta-Systems
+Meta-Intelligence
+Trans-System Coordination
+
+The source describes the final level as the apex supervisory layer, integrating the different intelligence layers while remaining constrained by supervision, ethics and governance.
+
+There is no Level 31.
+
+---
+
+The Progression
+
+LEVELS 01-05
+FOUNDATIONS
+Agent
+Agentic Capability
+Agentic System
+Agentic Network
+Agentic Environment
+
+        ↓
+
+LEVELS 06-10
+AUTONOMOUS CAPABILITY
+Learning
+Reasoning
+Judgement
+Ethics
+Governance
+
+        ↓
+
+LEVELS 11-16
+SYSTEMS AND CREATION
+Systems
+Architecture
+Creation
+Innovation
+Evolution
+Emergence
+
+        ↓
+
+LEVELS 17-20
+META-INTELLIGENCE
+Meta-Systems
+Meta-Cognition
+Meta-Agency
+Meta-Intelligence
+
+        ↓
+
+LEVELS 21-29
+TRANS-AGENTIC INTELLIGENCE
+Trans-Agency
+Trans-Intelligence
+Trans-Cognition
+Trans-Reasoning
+Trans-Architecture
+Trans-Emergence
+Trans-Evolution
+Trans-Meta-Systems
+Trans-Meta-Intelligence
+
+        ↓
+
+LEVEL 30
+SUPRA-INTELLIGENCE
+
+---
+
+Programme Structure
+
+Agentics-30 is not intended to be a single monolithic implementation.
+
+Each level can be explored as an independent capability, module, experiment or training stage.
+
+The programme provides a progression for:
+
+- Agent design
+- Agentic capability development
+- Reasoning
+- Learning
+- Judgement
+- Ethics
+- Governance
+- Systems engineering
+- Architecture
+- Creation
+- Innovation
+- Evolution
+- Emergence
+- Meta-systems
+- Meta-cognition
+- Meta-agency
+- Meta-intelligence
+- Cross-system coordination
+- Trans-system reasoning
+- Advanced agentic architectures
+
+The detailed implementation belongs inside the individual level documentation and associated projects.
+
+---
+
+Core Principle
+
+The objective is not simply to make agents more autonomous.
+
+The objective is to understand how increasingly capable agentic systems can be constructed, constrained, supervised, evaluated, coordinated and evolved as capability increases.
+
+Each level therefore adds another dimension of capability while retaining the principles of:
+
+Constraint.
+Supervision.
+Evaluation.
+Alignment.
+Reporting.
+Stability.
+
+---
 
 Status
 
-Agentics-30 is an evolving training and development programme.
+Programme: Agentics-30
+Levels: 30
+Structure: Progressive training programme
+Scope: Agentic systems, intelligence, architecture and multi-system coordination
+Implementation: Modular and extensible
 
-The 30-level structure provides the architectural and educational spine. Individual levels can be expanded with implementations, experiments, exercises, tests, examples, and supporting modules as development progresses.
-
-The programme is designed to grow without losing its underlying progression: from Level 1 — Agent through Level 30 — Supra Intelligence, with increasing capability, control, coordination, and system integration.
+«30 levels. One progression. From agent to supra-intelligence.»
